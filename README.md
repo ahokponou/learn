@@ -4,7 +4,7 @@ I'm really excited to deepen my knowledge of some programming languages and lear
 
 ## Rust
 
-Learn Materials
+Learnng Materials
 
 - [Rust by example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust book](https://doc.rust-lang.org/book/title-page.html)
