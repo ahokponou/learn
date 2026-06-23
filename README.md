@@ -1,9 +1,5 @@
-# Learn or Further programming language
+# Learn or Further
 
-I'm really excited to deepen my knowledge of some programming languages and learn others too! 
+## [DevOps by projects](./devops)
 
-This repository will contain all my learning projects and notes, so I can keep track of my progress.
-
-## Want to learn 
-
-## Want to further
+- [Basic Dockerfile](./devops/dockerfile/README.md)
